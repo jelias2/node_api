@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://a0342942@bitbucket-emea.aws.lmig.com/scm/in/node_api.git"
+    "url": "https://github.com/jelias2/node_api.git"
   },
   "author": "",
   "license": "ISC",
@@ -19,8 +19,5 @@
     "mongodb": "^2.2.19",
     "nodemon": "^1.17.5",
     "save-dev": "^2.0.0"
-  }
-  "devDependencies"{
-    "nodemon": "^1.17.5"
   }
 }
