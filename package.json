@@ -1,0 +1,26 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "node_api for BB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://a0342942@bitbucket-emea.aws.lmig.com/scm/in/node_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.19",
+    "nodemon": "^1.17.5",
+    "save-dev": "^2.0.0"
+  }
+  "devDependencies"{
+    "nodemon": "^1.17.5"
+  }
+}
